@@ -11,6 +11,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class MonthlyCalendarGenerator {
+    // get what day it is with all of the info
     static int getDayOfTheWeek(int day, int month, int year) {
         int a, y, m, d;
         a = (14 - month) / 12;
