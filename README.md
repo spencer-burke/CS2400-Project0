@@ -1,5 +1,5 @@
 # CS2400-Project0
-Spencer Burke
-https://github.com/spencer-burke/CS2400-Project0
-https://youtu.be/pvL2WW97vKM
+Spencer Burke<br>
+https://github.com/spencer-burke/CS2400-Project0<br>
+https://youtu.be/pvL2WW97vKM<br>
 OBS 30.0.2
